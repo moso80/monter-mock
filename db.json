@@ -7,5 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "company": {
+	"projects": [
+		"id": 1,
+		"projectname": "mocktest",
+		"address": "Gågata 1",
+		"postalcode": "3122",
+		"city": "OSLO"
+	]
   }
 }
