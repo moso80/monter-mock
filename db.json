@@ -8,27 +8,35 @@
   "profile": {
     "name": "typicode"
   },
-	"projects": [
-		{
-			"id": 1,
-			"projectname": "mocktest",
-			"address": "Gågata 1",
-			"postalcode": "3122",
-			"city": "OSLO"
-		},
-		{
-			"id": 2,
-			"projectname": "mocktest 2",
-			"address": "Ruslegata 1",
-			"postalcode": "3100",
-			"city": "OSLO"
-		},
-		{
-			"id": "projectid12345124",
-			"projectname": "Superprosjektet",
-			"address": "Ruslegata 1",
-			"postalcode": "3100",
-			"city": "OSLO"
-		}
-	]  
+  "companies": [
+	{
+		"id": "106001628",
+		"name": "AARSETH TROND",
+		"projects": [
+			{
+				"id": 1,
+				"projectname": "mocktest",
+				"address": "Gågata 1",
+				"postalcode": "3122",
+				"city": "OSLO"
+			},
+			{
+				"id": 2,
+				"projectname": "mocktest 2",
+				"address": "Ruslegata 1",
+				"postalcode": "3100",
+				"city": "OSLO"
+			},
+			{
+				"id": "projectid12345124",
+				"projectname": "Superprosjektet",
+				"address": "Ruslegata 1",
+				"postalcode": "3100",
+				"city": "OSLO"
+			}
+		] 
+	 
+	}
+  ]
+	 
 }
