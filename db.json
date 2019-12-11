@@ -1,14 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello morten"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "companies": [
+   "companies": [
 	{
 		"id": "106001628",
 		"name": "AARSETH TROND"
