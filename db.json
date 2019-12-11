@@ -15,6 +15,13 @@
 			"address": "Gågata 1",
 			"postalcode": "3122",
 			"city": "OSLO"
+		},
+		{
+			"id": 2,
+			"projectname": "mocktest 2",
+			"address": "Ruslegata 1",
+			"postalcode": "3100",
+			"city": "OSLO"
 		}
 	]  
 }
