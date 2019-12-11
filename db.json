@@ -8,7 +8,6 @@
   "profile": {
     "name": "typicode"
   },
-  "company": {
 	"projects": [
 		{
 			"id": 1,
@@ -17,6 +16,5 @@
 			"postalcode": "3122",
 			"city": "OSLO"
 		}
-	]
-  }
+	]  
 }
