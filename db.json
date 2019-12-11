@@ -22,6 +22,13 @@
 			"address": "Ruslegata 1",
 			"postalcode": "3100",
 			"city": "OSLO"
+		},
+		{
+			"id": "projectid12345124",
+			"projectname": "Superprosjektet",
+			"address": "Ruslegata 1",
+			"postalcode": "3100",
+			"city": "OSLO"
 		}
 	]  
 }
