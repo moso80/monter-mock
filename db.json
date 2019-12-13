@@ -34,5 +34,10 @@
 			"city": "OSLO",
 			"company_id": "106001628" 
 		}
-	]  
+	]
+"orders": [
+{
+	"id": "testid-1"
+}
+]	
 }
