@@ -1,43 +1,62 @@
 {
-   "companies": [
-	{
-		"id": "106001628",
-		"name": "AARSETH TROND"
-	},
-	{
-		"id": "106001627",
-		"name": "Kjeltringen AS"
-	}
+  "companies": [
+    {
+      "id": "106001628",
+      "name": "AARSETH TROND"
+    },
+    {
+      "id": "106001627",
+      "name": "Kjeltringen AS"
+    }
   ],
-	"projects": [
-		{
-			"id": 1,
-			"projectname": "mocktest",
-			"address": "Gågata 1",
-			"postalcode": "3122",
-			"city": "OSLO",
-			"company_id": "106001627" 
-		},
-		{
-			"id": 2,
-			"projectname": "mocktest 2",
-			"address": "Ruslegata 1",
-			"postalcode": "3100",
-			"city": "OSLO",
-			"company_id": "106001627" 
-		},
-		{
-			"id": "projectid12345124",
-			"projectname": "Superprosjektet",
-			"address": "Ruslegata 1",
-			"postalcode": "3100",
-			"city": "OSLO",
-			"company_id": "106001628" 
-		}
-	],
-"orders": [
-{
-	"id": "testid-1"
-}
-]	
+  "projects": [
+    {
+      "id": 1,
+      "projectname": "mocktest",
+      "address": "Gågata 1",
+      "postalcode": "3122",
+      "city": "OSLO",
+      "company_id": "106001627"
+    },
+    {
+      "id": 2,
+      "projectname": "mocktest 2",
+      "address": "Ruslegata 1",
+      "postalcode": "3100",
+      "city": "OSLO",
+      "company_id": "106001627"
+    },
+    {
+      "id": "projectid12345124",
+      "projectname": "Superprosjektet",
+      "address": "Ruslegata 1",
+      "postalcode": "3100",
+      "city": "OSLO",
+      "company_id": "106001628"
+    }
+  ],
+  "orders": [
+    {
+      "id": "testid-1",
+      "project": "Tunhovdveien",
+      "date": "2019-05-19T14:00:00",
+      "deliverydate": "2019-06-10T12:00:00",
+      "delivernote": "Leveres på byggeplass",
+      "ref": "Helene",
+      "subtotal": "1000.00",
+      "total": "1250.00",
+      "vattotal": "250.00"
+    },
+    {
+      "id": "testid-2",
+      "project": "Superprosjektet",
+      "date": "2019-06-10T11:00:00",
+      "deliverydate": "2019-07-01T12:00:00",
+      "delivernote": "Leveres på byggeplass",
+      "ref": "Tore",
+      "subtotal": "2000.00",
+      "total": "2500.00",
+      "vattotal": "500.00"
+    }
+  ]
 }
