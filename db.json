@@ -37,28 +37,84 @@
   ],
   "orders": [
     {
-      "id": "testid-1",
-      "project": "Tunhovdveien",
-      "projecturl": "/",
-      "date": "2019-05-19T14:00:00",
-      "deliverydate": "2019-06-10T12:00:00",
-      "delivernote": "Leveres på byggeplass",
-      "ref": "Helene",
-      "subtotal": "1000.00",
-      "total": "1250.00",
-      "vattotal": "250.00"
+      "customerNumber": "106001628",
+      "customerId": "106001628",
+      "projectId": "205490",
+      "address": {
+        "postalCode": "3540",
+        "address": "GRIMSGÅRDVEGEN 18",
+        "city": "NESBYEN"
+      },
+      "orderId": "1017455344",
+      "status": "77",
+      "date": "2018-12-20T00:00:00Z",
+      "deliveryMethod": "HNT",
+      "warehouse": "180",
+      "requestedDate": "2018-12-20T05:45:00Z",
+      "priceNetto": 1105,
+      "referenceId": "205490",
+      "orderLine": [
+        {
+          "orderLineId": "1",
+          "productId": "D001609433",
+          "name": "9403004DX04 Lås UK2622",
+          "discountedPrice": "1105.3000",
+          "priceWithoutDiscount": 1579,
+          "isAvailable": false,
+          "orderedQuantity": 1,
+          "orderedUnit": "STK",
+          "invoicedQuantity": 0,
+          "requestedDeliveryDate": "2018-12-19T23:00:00Z",
+          "confirmedDeliveryDate": "2018-12-24T05:45:00Z",
+          "lineAmountCurrency": "1105.30"
+        }
+      ],
+      "id": "0b2bc657-2567-4d44-99d9-6e74020f16cb",
+      "eTag": "\"5200a8e5-0000-0d00-0000-5df749fe0000\"",
+      "createdBy": "M3",
+      "createdAtUtc": "2019-11-22T12:32:16.015697Z",
+      "updatedBy": "M3",
+      "updatedAtUtc": "2019-12-03T12:13:43.4855011Z"
     },
     {
-      "id": "testid-2",
-      "project": "Superprosjektet",
-      "projecturl": "/",
-      "date": "2019-06-10T11:00:00",
-      "deliverydate": "2019-07-01T12:00:00",
-      "delivernote": "Leveres på byggeplass",
-      "ref": "Tore",
-      "subtotal": "2000.00",
-      "total": "2500.00",
-      "vattotal": "500.00"
+      "customerNumber": "106001628",
+      "customerId": "106001628",
+      "projectId": "205490",
+      "address": {
+        "postalCode": "3540",
+        "address": "GRIMSGÅRDVEGEN 18",
+        "city": "NESBYEN"
+      },
+      "orderId": "mock",
+      "status": "77",
+      "date": "2018-12-20T00:00:00Z",
+      "deliveryMethod": "mock",
+      "warehouse": "180",
+      "requestedDate": "2018-12-20T05:45:00Z",
+      "priceNetto": 1105,
+      "referenceId": "205490",
+      "orderLine": [
+        {
+          "orderLineId": "1",
+          "productId": "D001609433",
+          "name": "9403004DX04 Lås UK2622",
+          "discountedPrice": "1105.3000",
+          "priceWithoutDiscount": 1579,
+          "isAvailable": false,
+          "orderedQuantity": 1,
+          "orderedUnit": "STK",
+          "invoicedQuantity": 0,
+          "requestedDeliveryDate": "2018-12-19T23:00:00Z",
+          "confirmedDeliveryDate": "2018-12-24T05:45:00Z",
+          "lineAmountCurrency": "1105.30"
+        }
+      ],
+      "id": "0b2bc657-2567-4d44-99d9-6e74020f16cb",
+      "eTag": "\"5200a8e5-0000-0d00-0000-5df749fe0000\"",
+      "createdBy": "M3",
+      "createdAtUtc": "2019-11-22T12:32:16.015697Z",
+      "updatedBy": "M3",
+      "updatedAtUtc": "2019-12-03T12:13:43.4855011Z"
     }
   ],
   "invoices": [
