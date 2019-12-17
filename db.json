@@ -120,6 +120,7 @@
   "invoices": [
     {
       "id": "testid-1",
+      "projectId": "100",
       "project": "Tunhovdveien",
       "projecturl": "/",
       "date": "2019-06-10T11:00:00",
@@ -131,6 +132,7 @@
     },
     {
       "id": "testid-2",
+      "projectId": "101",
       "project": "Superprosjektet",
       "projecturl": "/",
       "date": "2019-06-10T11:00:00",
