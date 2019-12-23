@@ -160,21 +160,6 @@
       ]
     },
     {
-      "id": "testid-2",
-      "projectId": "100",
-      "userId": "2",
-      "name": "Dette er en handleliste på annen bruker, men samme prosjekt",
-      "description": "Bacon andouille pancetta capicola ribeye, ball tip doner jowl boudin alcatra sirloin jerky chuck",
-      "project": "Tunhovdveien",
-      "sharedBy": "1",
-      "items": [
-        {
-          "productId": "blah",
-          "name":  "blah"
-        }
-      ]
-    },
-    {
       "id": "testid-3",
       "name": "Min favorittliste",
       "description": " Tongue bresaola meatball ball tip, turkey pastrami alcatra",
@@ -190,6 +175,21 @@
         {
           "productId": "blah",
           "name": "blah"
+        }
+      ]
+    },
+    {
+      "id": "testid-2",
+      "projectId": "100",
+      "userId": "2",
+      "name": "Dette er en handleliste på annen bruker, men samme prosjekt",
+      "description": "Bacon andouille pancetta capicola ribeye, ball tip doner jowl boudin alcatra sirloin jerky chuck",
+      "project": "Tunhovdveien",
+      "sharedBy": "1",
+      "items": [
+        {
+          "productId": "blah",
+          "name":  "blah"
         }
       ]
     }
