@@ -151,7 +151,13 @@
       "name": "Dette er en handleliste med langt navn som må forkortes",
       "description": "Salami flank pork loin ham hock, tenderloin ball tip tri-tip alcatra tongue jerky jowl chislic",
       "project": "Tunhovdveien",
-      "sharedBy": "2"
+      "sharedBy": "2",
+      "items": [
+        {
+          "productId": "blah",
+          "name": "blah"
+        }
+      ]
     },
     {
       "id": "testid-2",
@@ -160,7 +166,13 @@
       "name": "Dette er en handleliste på annen bruker, men samme prosjekt",
       "description": "Bacon andouille pancetta capicola ribeye, ball tip doner jowl boudin alcatra sirloin jerky chuck",
       "project": "Tunhovdveien",
-      "sharedBy": "1"
+      "sharedBy": "1",
+      "items": [
+        {
+          "productId": "blah",
+          "name":  "blah"
+        }
+      ]
     },
     {
       "id": "testid-3",
@@ -169,7 +181,17 @@
       "projectId": "101",
       "userId": "1",
       "project": "Superprosjektet",
-      "sharedBy": "0"
+      "sharedBy": "0",
+      "items": [
+        {
+          "productId": "blah",
+          "name": "blah"
+        },
+        {
+          "productId": "blah",
+          "name": "blah"
+        }
+      ]
     }
   ]
 }
