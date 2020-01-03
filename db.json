@@ -184,22 +184,30 @@
       ]
     }
   ],
-  "documentation": [
-    {
-      "id": "document-1",
-      "name": "Documentnavn",
-      "description": "Beskrivelse av dokument",
-      "date": "2019-06-10T11:00:00",
-      "status": 0,
-      "boligmappa": false
-    },
-    {
-      "id": "document-2",
-      "name": "Documentnavn",
-      "description": "Beskrivelse av dokumentet",
-      "date": "2019-06-11T11:00:00",
-      "status": 1,
-      "boligmappa": true
-    }
-  ]
+  "documentation": {
+    "documents": [
+      {
+        "id": "document-1",
+        "name": "Documentnavn",
+        "description": "Beskrivelse av dokument",
+        "date": "2019-06-10T11:00:00",
+        "status": 0,
+        "boligmappa": false
+      },
+      {
+        "id": "document-2",
+        "name": "Documentnavn",
+        "description": "Beskrivelse av dokumentet",
+        "date": "2019-06-11T11:00:00",
+        "status": 1,
+        "boligmappa": true
+      }
+    ],
+    "reports": [
+
+    ],
+    "productdocumentation": [
+
+    ]
+  }
 }
