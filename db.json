@@ -1,14 +1,4 @@
 {
-  "companies": [
-    {
-      "id": "106001628",
-      "name": "AARSETH TROND"
-    },
-    {
-      "id": "106001627",
-      "name": "Kjeltringen AS"
-    }
-  ],
   "projects": [
     {
       "id": 1,
