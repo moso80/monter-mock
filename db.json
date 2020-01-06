@@ -1,28 +1,50 @@
 {
-  "projects": [
+  "products": [
     {
       "id": 1,
-      "projectname": "mocktest",
-      "address": "Gågata 1",
-      "postalcode": "3122",
-      "city": "OSLO",
-      "company_id": "106001627"
+      "name": "mocktest",
+      "projectid": 100,
+      "productnumber": "7085465",
+      "fdv": true,
+      "hms": false,
+      "man": false,
+      "yte": true,
+      "pre": false,
+      "ser": false,
+      "epd": false,
+      "breeam": false,
+      "bro": false,
+      "hmf": false
     },
     {
       "id": 2,
-      "projectname": "mocktest 2",
-      "address": "Ruslegata 1",
-      "postalcode": "3100",
-      "city": "OSLO",
-      "company_id": "106001627"
+      "name": "mocktest 2",
+      "projectid": 100,
+      "productnumber": "705454",
+      "fdv": true,
+      "hms": false,
+      "man": false,
+      "yte": false,
+      "pre": false,
+      "ser": false,
+      "epd": true,
+      "breeam": false,
+      "bro": false
     },
     {
-      "id": "projectid12345124",
-      "projectname": "Superprosjektet",
-      "address": "Ruslegata 1",
-      "postalcode": "3100",
-      "city": "OSLO",
-      "company_id": "106001628"
+      "id": 3,
+      "name": "mocktest 3",
+      "projectid": 100,
+      "productnumber": "703055016",
+      "fdv": true,
+      "hms": false,
+      "man": false,
+      "yte": false,
+      "pre": true,
+      "ser": false,
+      "epd": false,
+      "breeam": true,
+      "bro": true
     }
   ],
   "orders": [
