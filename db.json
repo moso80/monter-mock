@@ -204,10 +204,29 @@
       }
     ],
     "reports": [
-
+      {
+        "id": "document-3",
+        "name": "Breeam begge",
+        "date": "2019-06-10T11:00:00"      
+      }
     ],
     "productdocumentation": [
-
+      {
+        "id": "document-4",
+        "productname": "Gipsplate 12,5x1200x2400 mm standard GN13",
+        "productnumber":  "7039566",
+        "date": "2019-06-10T11:00:00",
+        "fdv": true,
+        "hms": false,
+        "man": false,
+        "yte": true,
+        "pre": false,
+        "ser": false,
+        "epd": false,
+        "breeam": false,
+        "bro": false,
+        "hmf":  false
+      }
     ]
   }
 }
