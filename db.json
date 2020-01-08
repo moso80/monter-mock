@@ -55,7 +55,9 @@
       "date": "2018-12-20T00:00:00Z",
       "deliveryDate": "2018-12-28T00:00:00Z",
       "deliveryMethod": "HNT",
-      "priceNetto": 1105,
+      "subtotal": 1105,
+      "total": 1381.25,
+      "vattotal": 276.25,
       "reference": "John Doe"
     },
     {
@@ -65,7 +67,9 @@
       "date": "2018-12-20T00:00:00Z",
       "deliveryDate": "2018-12-28T00:00:00Z",
       "deliveryMethod": "HNT",
-      "priceNetto": 1105,
+      "subtotal": 1105,
+      "total": 1381.25,
+      "vattotal": 276.25,
       "reference": "John Doe"
     }
   ],
