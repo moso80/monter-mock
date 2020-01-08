@@ -101,7 +101,7 @@
       "type": "batchinvoice"
     },
     {
-      "id": "testid-2",
+      "id": "testid-3",
       "projectId": "101",
       "project": "Superprosjektet",
       "projecturl": "/",
