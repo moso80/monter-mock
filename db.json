@@ -82,9 +82,10 @@
       "date": "2019-06-10T11:00:00",
       "duedate": "2019-07-01T12:00:00",
       "status": "Forfalt",
-      "subtotal": "1000.00",
-      "total": "1250.00",
-      "vattotal": "250.00"
+      "subtotal": 1000.00,
+      "total": 1250.00,
+      "vattotal": 250.00,
+      "type": "invoice"
     },
     {
       "id": "testid-2",
@@ -94,9 +95,23 @@
       "date": "2019-06-10T11:00:00",
       "duedate": "2019-07-01T12:00:00",
       "status": "Betalt",
-      "subtotal": "2000.00",
-      "total": "2500.00",
-      "vattotal": "500.00"
+      "subtotal": 2000.00,
+      "total": 2500.00,
+      "vattotal": 500.00,
+      "type": "batchinvoice"
+    },
+    {
+      "id": "testid-2",
+      "projectId": "101",
+      "project": "Superprosjektet",
+      "projecturl": "/",
+      "date": "2019-06-10T11:00:00",
+      "duedate": "2019-07-01T12:00:00",
+      "status": "Tilbakebetalt",
+      "subtotal": -2000.00,
+      "total": -2500.00,
+      "vattotal": -500.00,
+      "type": "creditnote"
     }
   ],
   "shoppinglists": [
