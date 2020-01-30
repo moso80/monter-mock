@@ -76,7 +76,7 @@
   "invoices": [
     {
       "id": "testid-1",
-      "projectId": "100",
+      "projectId": "1001409000G",
       "project": "Tunhovdveien",
       "projecturl": "/",
       "date": "2019-06-10T11:00:00",
@@ -117,7 +117,7 @@
   "shoppinglists": [
     {
       "id": "testid-1",
-      "projectId": "100",
+      "projectId": "1001409000G",
       "userId": "1",
       "name": "Dette er en handleliste med langt navn som må forkortes",
       "description": "Salami flank pork loin ham hock, tenderloin ball tip tri-tip alcatra tongue jerky jowl chislic",
